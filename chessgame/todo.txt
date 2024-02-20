@@ -1,0 +1,5 @@
+// TODO 
+// a way to represent the state of the game (piece pos, player turn, castling...) bitmap
+// a way to generate legal moves
+// a way to search legal moves
+// a way to select the "best" move

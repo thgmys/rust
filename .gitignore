@@ -1,0 +1,8 @@
+# *
+# !chessgame/src/main.rs
+# !chessgame/Cargo.toml
+
+chessgame/target
+chessgame/Cargo.lock
+chessgame/main.exe
+chessgame/main.pdb
